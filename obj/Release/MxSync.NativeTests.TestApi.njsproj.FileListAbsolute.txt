@@ -1,0 +1,2 @@
+C:\Code\Maxxor.MxSync\NativeTests\MxSync.NativeTests.TestApi\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Code\Maxxor.MxSync\NativeTests\MxSync.NativeTests.TestApi\obj\Release\MxSync.NativeTests.TestApi.njsprojResolveAssemblyReference.cache
